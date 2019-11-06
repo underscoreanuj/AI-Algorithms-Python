@@ -1,3 +1,7 @@
+"""
+author: underscoreanuj
+"""
+
 from heapq import heappush, heappop, heapify
 from random import shuffle 
 
@@ -121,8 +125,6 @@ class Solver():
 
 
 
-# puzzle = [x for x in range(9)]
-# puzzle = [1, 7, 4, 6, 8, 3, 2, 5, 0]
 puzzle = [
     4, 1, 3,
     0, 2, 5,

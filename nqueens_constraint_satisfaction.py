@@ -1,4 +1,9 @@
+"""
+author: underscoreanuj
+"""
+
 import random
+
 
 class CspQueens():
     def __init__(self, board_size):
